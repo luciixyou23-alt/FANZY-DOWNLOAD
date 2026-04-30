@@ -9,6 +9,10 @@
   "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.0.5/FZ-DOWNLOAD.exe",
   "checksum_sha256": "9abb58484a56f5f87fcb3ee9684660977cb4c1fedd30b8c2b953d39e2f8708c1",
   "notes": [
-    "Latest public release for FANZY DOWNLOAD V1.0.4."
+    "Latest public release for FANZY DOWNLOAD V1.0.5.",
+    "Remove Reddit",
+    "Remvoe Pinterest",
+    "Fix some bugs",
+    "Improve Speed fetching"
   ]
 }
