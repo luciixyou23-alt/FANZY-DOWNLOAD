@@ -1,0 +1,14 @@
+{
+  "app_name": "FANZY DOWNLOAD",
+  "latest_version": "1.0.4",
+  "display_version": "V1.0.4",
+  "minimum_supported_version": "1.0.3",
+  "release_date": "2026-04-30",
+  "mandatory": false,
+  "release_page_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/tag/Version1.0.4",
+  "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.0.4/FZ-DOWNLOAD.exe",
+  "checksum_sha256": "74f1b88fb831f4b06e0600bb217131c24880b3c7c6c877b585c67267db34debf",
+  "notes": [
+    "Latest public release for FANZY DOWNLOAD V1.0.4."
+  ]
+}
