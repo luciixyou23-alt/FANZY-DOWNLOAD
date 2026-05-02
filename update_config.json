@@ -7,7 +7,7 @@
   "mandatory": false,
   "release_page_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/tag/Version1.1.1",
   "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.1.1/FZ-DOWNLOAD.exe",
-  "checksum_sha256": "dc87e1cc0023c9d3308e1273cd01736c2c8c2c40e86c022098499ff43dfe3558",
+  "checksum_sha256": "d267e1497017c2d4bcb9d63b9fd6d2063b65cd5748025c8764384da1ed2c5945",
   "Patchs": [
     "Latest Version V1.1.1",
     "Fix bilibili using title + canption",
