@@ -1,15 +1,15 @@
 {
   "app_name": "FANZY DOWNLOAD",
-  "latest_version": "1.0.6",
-  "display_version": "V1.0.6",
-  "minimum_supported_version": "1.0.5",
+  "latest_version": "1.1.0",
+  "display_version": "V1.1.0",
+  "minimum_supported_version": "1.0.6",
   "release_date": "2026-04-30",
   "mandatory": false,
-  "release_page_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/tag/Version1.0.6",
-  "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.0.6/FZ-DOWNLOAD.exe",
-  "checksum_sha256": "6f281f8807c0e7daefa5bb535e9d1b2dfce35802d8956fe0d08d8aa0a5c81e2f",
+  "release_page_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/tag/Version1.1.0",
+  "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.1.0/FZ-DOWNLOAD.exe",
+  "checksum_sha256": "dc87e1cc0023c9d3308e1273cd01736c2c8c2c40e86c022098499ff43dfe3558",
   "Patchs": [
-    "Latest Version V1.0.6",
+    "Latest Version V1.1.0",
     "Fix bilibili using title + canption",
     "Fix Instagram downloading failed",
     "Fix stop button now will stop immediately",
@@ -17,6 +17,7 @@
     "Fix Handle multi platform at one time",
     "Fix stuck for Instagram. while fetching reels",
     "Fix not caps or limits fetching",
-    "Add auto translate title for Bilibili"
+    "Add auto translate title for Bilibili",
+    "Add Confirm Update"
   ]
 }
