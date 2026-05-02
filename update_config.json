@@ -8,11 +8,15 @@
   "release_page_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/tag/Version1.0.6",
   "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.0.6/FZ-DOWNLOAD.exe",
   "checksum_sha256": "6f281f8807c0e7daefa5bb535e9d1b2dfce35802d8956fe0d08d8aa0a5c81e2f",
-  "notes": [
-    "Latest public release for FANZY DOWNLOAD V1.0.5.",
-    "Remove Reddit",
-    "Remvoe Pinterest",
-    "Fix some bugs",
-    "Improve Speed fetching"
+  "Patchs": [
+    "Latest Version V1.0.6",
+    "Fix bilibili using title + canption",
+    "Fix Instagram downloading failed",
+    "Fix stop button now will stop immediately",
+    "Fix Auto Scroll not working after fetched",
+    "Fix Handle multi platform at one time",
+    "Fix stuck for Instagram. while fetching reels",
+    "Fix not caps or limits fetching",
+    "Add auto translate title for Bilibili"
   ]
 }
