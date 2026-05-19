@@ -1,23 +1,18 @@
 {
   "app_name": "FANZY DOWNLOAD",
-  "latest_version": "1.1.1",
-  "display_version": "V1.1.1",
-  "minimum_supported_version": "1.1.0",
-  "release_date": "2026-05-02",
+  "latest_version": "1.1.2",
+  "display_version": "V1.1.2",
+  "minimum_supported_version": "1.1.2",
+  "release_date": "2026-05-19",
   "mandatory": false,
   "release_page_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/tag/Version1.1.1",
   "download_url": "https://github.com/luciixyou23-alt/FANZY-DOWNLOAD/releases/download/Version1.1.1/FZ-DOWNLOAD.exe",
-  "checksum_sha256": "d267e1497017c2d4bcb9d63b9fd6d2063b65cd5748025c8764384da1ed2c5945",
+  "checksum_sha256": "fb3b997b68c443916ad8c6c55e03ccf3a206ee029e5b46c065fcef99a16cf2b6",
   "Patchs": [
-    "Latest Version V1.1.1",
-    "Fix bilibili using title + canption",
-    "Fix Instagram downloading failed",
-    "Fix stop button now will stop immediately",
-    "Fix Auto Scroll not working after fetched",
-    "Fix Handle multi platform at one time",
-    "Fix stuck for Instagram. while fetching reels",
-    "Fix not caps or limits fetching",
-    "Add auto translate title for Bilibili",
-    "Add Confirm Update"
+    "Latest Version V1.1.2",
+    "Update GUI",
+    "Improve System Download",
+    "Add new download multi link video and profiles",
+    "Fix some bugs"
   ]
 }
